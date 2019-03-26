@@ -1,6 +1,7 @@
 ---
 label: Default Template
 hide_body: true
+display_field: title
 fields:
 - name: title
   label: Title
