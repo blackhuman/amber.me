@@ -1,0 +1,4 @@
+baseURL = "https://ambers.me/"
+languageCode = "zh-cn"
+title = "Ambers' Blog"
+theme = "ananke"
