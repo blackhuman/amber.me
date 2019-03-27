@@ -1,10 +1,9 @@
 +++
+categories = ["观点"]
 date = "2016-09-30T16:00:00+00:00"
 title = "纪录片《Human》"
-draft = true
-categories = ["观点"]
-+++
 
++++
 # 纪录片《Human》
 Human 
 一个人，用了七年想清楚了一个大概会困住世间大部分人类的命题

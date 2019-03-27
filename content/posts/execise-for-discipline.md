@@ -1,8 +1,8 @@
 +++
+categories = ["Summary"]
 date = "2016-09-30T16:00:00+00:00"
 title = "自律的刻意练习"
-draft = true
-categories = ["Summary"]
+
 +++
 # 自律的刻意练习
 ##做不到自律的原因
