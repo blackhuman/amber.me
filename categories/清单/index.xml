@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>清单 on Ambers&#39; Blog</title>
-    <link>https://ambers.me/categories/%E6%B8%85%E5%8D%95/</link>
+    <link>ambers.me/categories/%E6%B8%85%E5%8D%95/</link>
     <description>Recent content in 清单 on Ambers&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 27 Mar 2019 12:42:42 +0800</lastBuildDate>
     
-	<atom:link href="https://ambers.me/categories/%E6%B8%85%E5%8D%95/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="ambers.me/categories/%E6%B8%85%E5%8D%95/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mac 必备应用</title>
-      <link>https://ambers.me/posts/the-must-have-macos-tools/</link>
+      <link>ambers.me/posts/the-must-have-macos-tools/</link>
       <pubDate>Wed, 27 Mar 2019 12:42:42 +0800</pubDate>
       
-      <guid>https://ambers.me/posts/the-must-have-macos-tools/</guid>
+      <guid>ambers.me/posts/the-must-have-macos-tools/</guid>
       <description>Mac 必备应用 产品设计
 Axure 产品经理必备工具
 Sketch — Flinto or Principle 高端炫技的原型和交互工具
@@ -48,10 +48,10 @@ RescueTime 记录在何处花费时间多少软件，但为了身心健康，每
     
     <item>
       <title>慢慢懂得的道理</title>
-      <link>https://ambers.me/posts/the-inspirations/</link>
+      <link>ambers.me/posts/the-inspirations/</link>
       <pubDate>Fri, 30 Sep 2016 16:00:00 +0000</pubDate>
       
-      <guid>https://ambers.me/posts/the-inspirations/</guid>
+      <guid>ambers.me/posts/the-inspirations/</guid>
       <description>慢慢懂得的道理 1.这个世界是按你贡献了什么来衡量你的价值
 2.每个人只能陪你走一段路，最终还是会分开的
 3.我不认同你，但我尊重你
@@ -62,10 +62,10 @@ RescueTime 记录在何处花费时间多少软件，但为了身心健康，每
     
     <item>
       <title>我踩过的坑们</title>
-      <link>https://ambers.me/posts/some-notes/</link>
+      <link>ambers.me/posts/some-notes/</link>
       <pubDate>Fri, 30 Sep 2016 16:00:00 +0000</pubDate>
       
-      <guid>https://ambers.me/posts/some-notes/</guid>
+      <guid>ambers.me/posts/some-notes/</guid>
       <description>我踩过的坑们 我的坑便是，预约了30日考科目1，但身份证29日过期了。。。题目都背好了，告诉我考不了。也怨自己拖延、没常识、没找专业人士询问、太自以为是。 1. 考驾驶证科目1时候，身份证要在有效期内，才能参加考试。 2. 北京公安局，可以给外地人员办理身份证，只要你有北京居住证。办理身份证去就近派出所办理，无需预约，20天后取证。但是！20天内外地人员并无临时身份证。</description>
     </item>
     
