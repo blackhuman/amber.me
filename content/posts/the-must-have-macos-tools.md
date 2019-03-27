@@ -1,8 +1,8 @@
 +++
-title = "Mac 必备应用"
-date = "2019-03-27T12:42:42+08:00"
-draft = true
 categories = ["清单"]
+date = "2019-03-27T12:42:42+08:00"
+title = "Mac 必备应用"
+
 +++
 # Mac 必备应用
 **产品设计**
@@ -58,4 +58,3 @@ Pycharm  Python必备，之所以酷炫，是因为我才迈向这条python的�
 Behance 壁纸1H自动切换，图片都来自behance，质量有保障，就是数量有限
 
 RescueTime 记录在何处花费时间多少软件，但为了身心健康，每天舒适就好
-
