@@ -1,4 +1,4 @@
-baseURL = "https://ambers.me/"
+baseURL = "ambers.me"
 languageCode = "zh-cn"
 title = "Ambers' Blog"
-theme = "ananke"
+theme = "hyde-hyde"
