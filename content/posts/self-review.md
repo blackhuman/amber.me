@@ -1,8 +1,8 @@
 +++
+categories = ["Summary"]
 date = "2016-09-30T16:00:00+00:00"
 title = "自我认知"
-draft = true
-categories = ["Summary"]
+
 +++
 # 自我认知
 **关键词**
