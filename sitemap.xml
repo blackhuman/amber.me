@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ambers.me/posts/american-south-coast-travelling/</loc>
-    <lastmod>2016-09-30T16:00:00+00:00</lastmod>
+    <loc>https://ambers.me/posts/the-must-have-macos-tools/</loc>
+    <lastmod>2019-03-27T12:42:42+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ambers.me/</loc>
-    <lastmod>2016-09-30T16:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T12:42:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,12 +20,18 @@
   
   <url>
     <loc>https://ambers.me/posts/</loc>
-    <lastmod>2016-09-30T16:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T12:42:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ambers.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ambers.me/categories/%E6%B8%85%E5%8D%95/</loc>
+    <lastmod>2019-03-27T12:42:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
