@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>笔记 on Ambers&#39; Blog</title>
-    <link>ambers.me/categories/%E7%AC%94%E8%AE%B0/</link>
+    <link>https://ambers.me/categories/%E7%AC%94%E8%AE%B0/</link>
     <description>Recent content in 笔记 on Ambers&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 30 Sep 2016 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="ambers.me/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ambers.me/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>用户体验的要素</title>
-      <link>ambers.me/posts/the-factors-of-user-experience/</link>
+      <link>https://ambers.me/posts/the-factors-of-user-experience/</link>
       <pubDate>Fri, 30 Sep 2016 16:00:00 +0000</pubDate>
       
-      <guid>ambers.me/posts/the-factors-of-user-experience/</guid>
+      <guid>https://ambers.me/posts/the-factors-of-user-experience/</guid>
       <description>用户体验的要素 这本书是从做产品以来，一直都在读的一本书，随着项目经验的增长，常读常新。这是一本能建立产品设计详细的知识框架的书，而且可以将其框架运用于生活的场景，甚至运用于对自己人生的规划上。其实经营一款产品的思路，和经营一个生意，经营一场人生，如出一撤。
 【用户体验的要素】 书摘
 作者 ：jesse james garrett 建立 视觉词典（the visual vocabulary ） ， Ajax 之父。个人网站：www.jjg.net

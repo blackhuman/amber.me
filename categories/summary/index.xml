@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Summary on Ambers&#39; Blog</title>
-    <link>ambers.me/categories/summary/</link>
+    <link>https://ambers.me/categories/summary/</link>
     <description>Recent content in Summary on Ambers&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 30 Sep 2016 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="ambers.me/categories/summary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ambers.me/categories/summary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>再见2017，你好2018</title>
-      <link>ambers.me/posts/farewell-2017-hello-2018/</link>
+      <link>https://ambers.me/posts/farewell-2017-hello-2018/</link>
       <pubDate>Fri, 30 Sep 2016 16:00:00 +0000</pubDate>
       
-      <guid>ambers.me/posts/farewell-2017-hello-2018/</guid>
+      <guid>https://ambers.me/posts/farewell-2017-hello-2018/</guid>
       <description> 再见2017，你好2018 一转眼，2018年已然过去了一个整月。2017年还没来的及好好告别，2018年也不知道如何开始。
 2017年在自我成长上过的，很糟糕，可以说在慵懒中退步。读很少的书、不运动、身体不好、不愿社交、吃吃睡睡不思考，碌碌无为中度日。好处也有，在心理上能接受“慢下来” ，接受生活的高高低低，不在焦躁不安中度日，安心的看着他人起起伏伏，按捺住内心的参与感，想做一个世界的旁观者，所以安心的把自己养成了一只胖子。2017年尾，未曾敢期盼过的感情，给我带来了无限惊喜，整个人都欢脱很多，好像开始从这一年的阴霾中走出来。
 心情 2017年初，雾霾还是每天笼罩着北京城。我每天很阴郁，想着快点离开这个城市；可2018年初，北京城每天蓝的，恨不得让你看清每一朵云彩。再也不想着离开。
@@ -26,10 +26,10 @@
     
     <item>
       <title>自律的刻意练习</title>
-      <link>ambers.me/posts/execise-for-discipline/</link>
+      <link>https://ambers.me/posts/execise-for-discipline/</link>
       <pubDate>Fri, 30 Sep 2016 16:00:00 +0000</pubDate>
       
-      <guid>ambers.me/posts/execise-for-discipline/</guid>
+      <guid>https://ambers.me/posts/execise-for-discipline/</guid>
       <description>自律的刻意练习 ##做不到自律的原因 1.一直做不到自律，不是自己本身的罪过，是对于事情本身的目标不明确，得不到正反馈
 2.和对于短期乐趣的沉迷，对于长期收益且有多大的不确定性 ##要做到自律需要两件事 1.目标明确到，做一件事就可以得到正反馈
 2.刻意练习放弃短期乐趣，对于长期收益的欲望克服
@@ -43,10 +43,10 @@
     
     <item>
       <title>自我认知</title>
-      <link>ambers.me/posts/self-review/</link>
+      <link>https://ambers.me/posts/self-review/</link>
       <pubDate>Fri, 30 Sep 2016 16:00:00 +0000</pubDate>
       
-      <guid>ambers.me/posts/self-review/</guid>
+      <guid>https://ambers.me/posts/self-review/</guid>
       <description>自我认知 关键词 节制、好奇、品质、极简
 1. 节制是要控制欲望，追求自由的生活，不能被世俗营销牵着走，明确最终对于自己想要的是什么，能达到自由思考之境。
 2. 好奇是尽量将未知领域变为已知，去更好的了解每一个人的内心。保持谦逊。
