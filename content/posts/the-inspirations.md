@@ -1,7 +1,7 @@
 +++
 date = "2016-09-30T16:00:00+00:00"
 title = "慢慢懂得的道理"
-draft: true
+draft = true
 categories = ["清单"]
 +++
 # 慢慢懂得的道理

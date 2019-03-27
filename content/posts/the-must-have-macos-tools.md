@@ -1,7 +1,7 @@
 +++
-title: "Mac 必备应用"
-date: 2019-03-27T12:42:42+08:00
-draft: true
+title = "Mac 必备应用"
+date = "2019-03-27T12:42:42+08:00"
+draft = true
 categories = ["清单"]
 +++
 # Mac 必备应用

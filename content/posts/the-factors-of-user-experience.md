@@ -1,7 +1,7 @@
 +++
 date = "2016-09-30T16:00:00+00:00"
 title = "用户体验的要素"
-draft: true
+draft = true
 categories = ["笔记"]
 +++
 # 用户体验的要素

@@ -1,7 +1,7 @@
 +++
 date = "2016-09-30T16:00:00+00:00"
 title = "美国西海岸自驾行前准备"
-draft: true
+draft = true
 categories = ["旅行"]
 +++
 # 美国西海岸自驾行前准备
