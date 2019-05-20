@@ -2,3 +2,5 @@ baseURL = "https://ambers.me/"
 languageCode = "zh-cn"
 title = "Ambers' Blog"
 theme = "hyde-hyde"
+[params]
+description="粤ICP备14068062号-3"
